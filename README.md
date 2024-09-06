@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am learning full stack and currently looking for a job. I love tech and it's related stuff.
-
+I'm currently diving into full-stack development and on the lookout for exciting job opportunities. My passion for tech and all things digital drives me to keep learning and exploring new possibilities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belikeabhishek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/belikeabhishek/) 
