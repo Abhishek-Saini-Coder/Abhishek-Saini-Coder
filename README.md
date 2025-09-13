@@ -14,8 +14,7 @@ Currently learning **Python, Django, MySQL, React.js**, and exploring full-stack
 - Build and deploy 2+ full-stack projects  
 - Contribute to open source  
 ---
-> “Code, Learn, Improve
-> every single day.”
+> Code, Learn, Improve - every single day.
 
 
 ## 🌐 Socials:
